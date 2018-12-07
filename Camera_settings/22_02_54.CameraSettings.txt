@@ -1,0 +1,32 @@
+[ZWO ASI174MC]
+Pan=244
+Tilt=0
+Output Format=AVI files (*.avi)
+Binning=1
+Capture Area=1448x1216
+Colour Space=RGB24
+Temperature=27.6
+High Speed Mode=On
+Turbo USB=100
+Flip=None
+Frame Rate Limit=Maximum
+Gain=232
+Exposure=10
+Timestamp Frames=Off
+White Bal (B)=99
+White Bal (R)=58
+Brightness=36
+Auto Exp Max Gain=200
+Auto Exp Max Exp M S=30000
+Auto Exp Target Brightness=100
+Mono Bin=Off
+Apply Flat=None
+Subtract Dark=None
+#Black Point
+Display Black Point=0
+#MidTone Point
+Display MidTone Point=0.5
+#White Point
+Display White Point=1
+TimeStamp=2018-12-06T11:02:54.1504136Z
+SharpCapVersion=3.1.5174.0
